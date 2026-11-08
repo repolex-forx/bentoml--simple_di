@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/bentoml/simple_di/commit/427b7f53f66d244a85887ae015d739709cf68a9d",
       "git:hexsha": "427b7f53f66d244a85887ae015d739709cf68a9d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T03:19:41.410136+00:00"
     },
     {
       "@id": "https://repolex.ai/r/bentoml/simple_di/commit/3cc0acaf2af03776c49a05d9360b024c287e41d0",
